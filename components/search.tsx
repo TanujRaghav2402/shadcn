@@ -1,6 +1,6 @@
 import { Input } from '@/components/ui/input'
 
-export function Search() {
+export function Shearch() {
   return (
     <div>
       <Input
